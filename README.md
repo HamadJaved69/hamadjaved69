@@ -1,11 +1,11 @@
 ### Hi there 👋
 
+I'm a Full Stack Developer 💻 . I'm working on Yii 2.0 and Angular and I also have work experience of Ionic, React, Laravel, and Node JS. I also have expertise in MySQL and MongoDB. I love working on Latest Technologies 🔥 and learning new stuff.
+
 <!--
 **HamadJaved69/hamadjaved69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
