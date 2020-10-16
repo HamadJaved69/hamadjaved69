@@ -1,13 +1,13 @@
-<h3 align="center">👋 hey, I'm Max.</h3>
+<h3 align="center">👋 Hey, I'm Hamad Javed.</h3>
 
 <p align="center">I'm a Full Stack Developer 💻 . I'm working on Yii 2.0 and Angular and I also have work experience of Ionic, React, Laravel, and Node JS. I also have expertise in MySQL and MongoDB. I love working on Latest Technologies 🔥 and learning new stuff.</p>
 
-<h3 align="center">👋 hey, I'm Max.</h3>
-
 <p align="center">
-  <a href="">Blog</a> •
-  <a href="">Twitter</a> •
-  <a href="">Dev.to</a>
+  <a href="https://hamadjaved69.github.io/">Website</a> •
+  <a href="https://dev.to/hamadjaved69">Dev.to</a> •
+  <a href="https://codepen.io/hamadjaved69">Codepen</a> •
+  <a href="https://stackoverflow.com/users/story/10042564">Stackoverflow</a> •
+  <a href="https://www.linkedin.com/in/hamadjaved69">Linkedin</a>
 </p>
 
 
