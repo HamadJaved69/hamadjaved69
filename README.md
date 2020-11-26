@@ -2,6 +2,18 @@
 
 <p align="center">I'm a Full Stack Developer 💻. I'm working on Yii 2.0 and Angular. I also have work experience of Ionic, React, Laravel, and Node JS. I have expertise in MySQL, MongoDB and Firebase. I love working on Latest Technologies 🔥 and learning new stuff.</p>
 
+<p align='center'>
+ 
+  <a href="https://www.linkedin.com/in/hamadjaved69/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/muhammad_hamad_javed">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
+
+
 <p align="center">
   <a href="https://hamadjaved69.github.io/">Website</a> •
   <a href="https://dev.to/hamadjaved69">Dev.to</a> •
