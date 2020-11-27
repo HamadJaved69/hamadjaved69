@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hey, I'm <a href="https://hamadjaved69.github.io/">Hamad Javed.</a></h3>
+<h3 align="center">Hey, I'm <a href="https://hamadjaved69.github.io/">Hamad Javed.</a></h3>
 
 <p align="center">I'm a Full Stack Developer. I'm working on Yii 2.0 and Angular. I also have work experience of Ionic, React, Laravel, and Node JS. I have expertise in MySQL, MongoDB and Firebase. I love working on Latest Technologies and learning new stuff.</p>
 
