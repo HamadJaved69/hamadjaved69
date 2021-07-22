@@ -1,6 +1,6 @@
 <h3 align="center">Hey, I'm <a href="https://hamadjaved69.github.io/">Hamad Javed.</a></h3>
 
-<p align="center">I'm a Full Stack Developer. I'm working on Yii 2.0, Angular and learning Flutter. I have work experience of Ionic, React, Laravel, and Node JS. I have expertise in MySQL, MongoDB and Firebase. I love working on Latest Technologies and learning new stuff.</p>
+<p align="center">I'm a Full Stack Developer. I'm working on React, Node and Angular and learning Flutter. I have work experience of Angular, Ionic and Laravel. I have expertise in MySQL, MongoDB and Firebase. I love working on Latest Technologies and learning new stuff.</p>
 
 <p align="center"> 
   <a href="https://github.com/hamadjaved69"> <img src="https://komarev.com/ghpvc/?username=hamadjaved69&label=Profile+Views&color=2e8b57&style=flat" /></a>
